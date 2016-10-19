@@ -1,3 +1,3 @@
 # Java Code
 ##111
-stringrec: Compression (RLE)
+* stringrec: Compression (RLE)
