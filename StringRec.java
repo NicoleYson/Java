@@ -1,6 +1,6 @@
 public class StringRec
 {
-
+	//recursive string compression (RLE)
 //	public static void main(String[] args) 	// TEST 
 //	{
 //		String compressedText = "q9w5e2rt5y4qw2Er3T";
