@@ -1,7 +1,5 @@
 public class StringRec
 {
-	// DO NOT DECLARE ANY VARIABLES HERE
-	// (you may declare local variables inside methods)
 
 //	public static void main(String[] args) 	// TEST 
 //	{
